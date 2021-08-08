@@ -3,15 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://whereismy.page/posts/</loc>
+    <lastmod>2021-08-05T04:36:16+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://whereismy.page/</loc>
+    <lastmod>2021-08-05T04:36:16+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://whereismy.page/posts/my-first-post/</loc>
+    <lastmod>2021-08-05T04:36:16+04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://whereismy.page/categories/</loc>
   </url>
   
   <url>
     <loc>https://whereismy.page/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>https://whereismy.page/</loc>
   </url>
   
 </urlset>
